@@ -1,4 +1,7 @@
 <h1 align="center">
+
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/aryandevarya/HellBot&branch=main&name=aryandev_225)
   <b>†hê Hêllẞø† 🇮🇳</b>
 </h1>
 
